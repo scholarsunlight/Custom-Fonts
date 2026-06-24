@@ -1,4 +1,9 @@
 # Custom Fonts
 
 <h2> Sources </h2>
-<p> <b> Creative Fabrica </b> - </p>
+<p> Creative Fabrica  - </p>
+<p> <b> Behance </b> - </p>
+<p> <b> Gumroad </b> - </p>
+
+
+<h2> </h2>
